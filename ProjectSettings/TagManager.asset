@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - Enemy
+  - Init
+  - End
   layers:
   - Default
   - TransparentFX
